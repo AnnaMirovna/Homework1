@@ -1,0 +1,15 @@
+C:\Users\yakov\Desktop\Geek brains\Разработчик\Знакомство с языками програмирования\Homework1\obj\Debug\net6.0\Homework1.csproj.AssemblyReference.cache
+C:\Users\yakov\Desktop\Geek brains\Разработчик\Знакомство с языками програмирования\Homework1\obj\Debug\net6.0\Homework1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakov\Desktop\Geek brains\Разработчик\Знакомство с языками програмирования\Homework1\obj\Debug\net6.0\Homework1.AssemblyInfoInputs.cache
+C:\Users\yakov\Desktop\Geek brains\Разработчик\Знакомство с языками програмирования\Homework1\obj\Debug\net6.0\Homework1.AssemblyInfo.cs
+C:\Users\yakov\Desktop\Geek brains\Разработчик\Знакомство с языками програмирования\Homework1\obj\Debug\net6.0\Homework1.csproj.CoreCompileInputs.cache
+C:\Users\yakov\Desktop\Geek brains\Разработчик\Знакомство с языками програмирования\Homework1\bin\Debug\net6.0\Homework1.exe
+C:\Users\yakov\Desktop\Geek brains\Разработчик\Знакомство с языками програмирования\Homework1\bin\Debug\net6.0\Homework1.deps.json
+C:\Users\yakov\Desktop\Geek brains\Разработчик\Знакомство с языками програмирования\Homework1\bin\Debug\net6.0\Homework1.runtimeconfig.json
+C:\Users\yakov\Desktop\Geek brains\Разработчик\Знакомство с языками програмирования\Homework1\bin\Debug\net6.0\Homework1.dll
+C:\Users\yakov\Desktop\Geek brains\Разработчик\Знакомство с языками програмирования\Homework1\bin\Debug\net6.0\Homework1.pdb
+C:\Users\yakov\Desktop\Geek brains\Разработчик\Знакомство с языками програмирования\Homework1\obj\Debug\net6.0\Homework1.dll
+C:\Users\yakov\Desktop\Geek brains\Разработчик\Знакомство с языками програмирования\Homework1\obj\Debug\net6.0\refint\Homework1.dll
+C:\Users\yakov\Desktop\Geek brains\Разработчик\Знакомство с языками програмирования\Homework1\obj\Debug\net6.0\Homework1.pdb
+C:\Users\yakov\Desktop\Geek brains\Разработчик\Знакомство с языками програмирования\Homework1\obj\Debug\net6.0\Homework1.genruntimeconfig.cache
+C:\Users\yakov\Desktop\Geek brains\Разработчик\Знакомство с языками програмирования\Homework1\obj\Debug\net6.0\ref\Homework1.dll
